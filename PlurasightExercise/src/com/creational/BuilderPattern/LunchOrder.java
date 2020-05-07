@@ -1,4 +1,4 @@
-package com.pluralsight.BuilderPattern;
+package com.creational.BuilderPattern;
 
 public class LunchOrder {
 

@@ -9,26 +9,29 @@ public class EmployeeAdapter implements Employee {
 	
 	@Override
 	public int getID() {
-		// TODO Auto-generated method stub
 		return instance.getEid();
 	}
 
 	@Override
 	public String getFirstName() {
-		// TODO Auto-generated method stub
 		return instance.getGivenName();
 	}
 
 	@Override
 	public String getLastName() {
-		// TODO Auto-generated method stub
 		return instance.getSurName();
 	}
 
 	@Override
 	public String getEmail() {
-		// TODO Auto-generated method stub
 		return instance.getMail();
+	}
+	
+	public String toString() {
+		return "EmployeeDB [id=" + getID() + ", firstName=" + getFirstName()
+		+ ", lastName=" + getLastName()
+		+ ", email=" + getEmail()
+				+ "]";
 	}
 
 }

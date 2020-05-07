@@ -2,11 +2,12 @@ package com.StructuralPattern.AdapterPattern;
 
 
 import java.util.ArrayList;
+import java.util.List;
 
 public class EmployeeClient {
 	
-	public ArrayList<Employee> getEmployeeList() {
-		ArrayList<Employee> employeeList = new ArrayList<Employee>();
+	public List<Employee> getEmployeeList() {
+		List<Employee> employeeList = new ArrayList<>();
 		Employee employee = new EmployeeDB(123, "John", "Wick", "John@wick.com");
 		employeeList.add(employee);
 		

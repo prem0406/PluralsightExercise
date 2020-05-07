@@ -1,4 +1,4 @@
-package com.pluralsight.PrototypePattern;
+package com.creational.PrototypePattern;
 
 public class Movie extends Item {
 	private int runTime;

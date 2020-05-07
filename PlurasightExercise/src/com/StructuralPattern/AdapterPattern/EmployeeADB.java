@@ -25,4 +25,6 @@ public class EmployeeADB {
 	public String getMail() {
 		return mail;
 	}
+	
+	
 }

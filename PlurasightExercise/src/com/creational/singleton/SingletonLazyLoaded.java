@@ -1,4 +1,4 @@
-package com.pluralsight.singleton;
+package com.creational.singleton;
 
 public class SingletonLazyLoaded {
 	

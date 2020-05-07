@@ -1,4 +1,4 @@
-package com.pluralsight.PrototypePattern;
+package com.creational.PrototypePattern;
 
 public class Book extends Item {
 	private int numberOfPages;
