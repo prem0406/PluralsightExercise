@@ -1,4 +1,4 @@
-package com.StructuralPattern.DecoratorPattern;
+package com.structural.DecoratorPattern;
 
 public class SimpleSandwich implements Sandwich {
 

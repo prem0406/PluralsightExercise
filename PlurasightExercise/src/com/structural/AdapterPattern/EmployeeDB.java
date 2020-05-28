@@ -1,4 +1,4 @@
-package com.StructuralPattern.AdapterPattern;
+package com.structural.AdapterPattern;
 
 public class EmployeeDB implements Employee {
 

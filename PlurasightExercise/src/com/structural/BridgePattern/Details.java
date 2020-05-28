@@ -1,4 +1,4 @@
-package com.StructuralPattern.BridgePattern;
+package com.structural.BridgePattern;
 
 public class Details {
 	private String lable;

@@ -1,4 +1,4 @@
-package com.StructuralPattern.AdapterPattern;
+package com.structural.AdapterPattern;
 
 import java.util.StringTokenizer;
 

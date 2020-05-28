@@ -1,4 +1,4 @@
-package com.StructuralPattern.DecoratorPattern;
+package com.structural.DecoratorPattern;
 
 import java.io.DataOutputStream;
 import java.io.File;
